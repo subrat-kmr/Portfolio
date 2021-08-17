@@ -202,9 +202,8 @@ const skills = {
             title: "Cloud Infra-Architecture",
             fileName: "CloudInfraImg",
             skills: [
-                "⚡ Experience working on multiple cloud platforms",
-                "⚡ Experience hosting and managing websites",
-                "⚡ Experience with Continuous Integration",
+                "⚡ Intrerest on multiple cloud platforms",
+                "⚡ Interest on hosting and managing websites independently"
             ],
             softwareSkills: [{
                     skillName: "AWS",
@@ -366,7 +365,7 @@ const experience = {
             experiences: [{
                     title: "Software Analyst",
                     company: "Apptium Technologies",
-                    company_url: "https://valora-infotech.business.site/",
+                    company_url: "https://apptium.com/",
                     logo_path: "apptium.jpg",
                     duration: "Aug 2019 - Till Now",
                     location: "Office",
@@ -376,7 +375,7 @@ const experience = {
                 {
                     title: "Junior Front-end Developer ",
                     company: "Convergent TechnologyPvt. Ltd.",
-                    company_url: "http://nightowls.company/",
+                    company_url: "https://www.convergentechnologies.com/",
                     logo_path: "convergent.png",
                     duration: "Aug 2018 - Aug 2019",
                     location: "Office",
@@ -476,14 +475,62 @@ const contactPageData = {
 
 const projects = {
     data: [{
-            id: "0",
-            name: "Thanks for Visit",
-            url: "https://github.com/harikanani/AutomateInstaPyBot",
-            description: "Will add it in Future",
+            id: "1",
+            name: "Telus",
+            url: "",
+            description: "The Project comes up with a multi-tier module where the Canadian Government Organizations can request for different kinds of services and operations to the SSC and the SSC can respond to their clients to improve the reliability of the government’s telecommunications systems and reduce the costs of supporting legacy infrastructure.",
             languages: [{
-                name: "Python",
-                // iconifyClass: "logos-python",
-            }, ],
+                    name: "HTML5",
+                    iconifyClass: "vscode-icons:file-type-html",
+                },
+                {
+                    name: "CSS3",
+                    iconifyClass: "vscode-icons:file-type-css",
+                },
+                {
+                    name: "TypeScript",
+                    iconifyClass: "logos-typescript",
+                },
+                {
+                    name: "Angular",
+                    iconifyClass: "vscode-icons:file-type-angular",
+                },
+                {
+                    name: "NodeJS",
+                    iconifyClass: "logos-nodejs",
+                },
+                {
+                    name: "MongoDB",
+                    iconifyClass: "logos:mongodb",
+                }
+            ],
+        },
+        {
+            id: "2",
+            name: "OUA Travels",
+            url: "https://github.com/harikanani/node-blockchain",
+            description: "OUA Travel is a B2C Application. Its a traveling service provider where it offers for Flight ,Hotel booking, Holiday package & providing Insurance for people of Oman.",
+            languages: [{
+                    name: "HTML5",
+                    iconifyClass: "vscode-icons:file-type-html",
+                },
+                {
+                    name: "CSS3",
+                    iconifyClass: "vscode-icons:file-type-css",
+                },
+                {
+                    name: "TypeScript",
+                    iconifyClass: "logos-typescript",
+                },
+                {
+                    name: "Angular",
+                    iconifyClass: "vscode-icons:file-type-angular",
+                },
+                {
+                    name: "Java",
+                    iconifyClass: "logos:java",
+                }
+            ],
         }]
         // data: [
         //     {
