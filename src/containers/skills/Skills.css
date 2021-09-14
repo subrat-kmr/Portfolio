@@ -11,6 +11,7 @@
 
 .skills-text {
   font-size: 20px;
+  padding-left: 70px;
 }
 
 .skills-text-div {
@@ -37,21 +38,26 @@
   text-align: center;
   padding-bottom: 10px;
   font-family: "Google Sans Regular";
+  padding-right: 100px;
 }
 
 /* Media Query */
+
 @media (max-width: 1380px) {
   .skills-heading {
     font-size: 40px;
+    padding-right: 100px;
   }
   .skills-header {
     font-size: 50px;
   }
 }
+
 @media (max-width: 768px) {
   .skills-heading {
     font-size: 30px;
     text-align: center;
+    padding-right: 100px;
   }
   .skills-header {
     font-size: 30px;

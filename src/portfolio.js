@@ -10,7 +10,7 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "Subrat KMR",
+  title2: "Subrat Kmr",
   logo_name: "subrat.kmr()",
   nickname: "Subrat / KMR",
   full_name: "Subrat Kumar Jena",
@@ -292,7 +292,7 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "M0001: MongoDB Basics",
+      title: "M001: MongoDB Basics",
       subtitle: "MongoDB University",
       logo_path: "mongo.png",
       certificate_link: "",
@@ -309,10 +309,11 @@ const certifications = {
     //     color_code: "#E2405F",
     // },
     {
-      title: "A300: Atlas Security",
+      title: "M220JS: MongoDB for JavaScript Developers",
       subtitle: "MongoDB University",
       logo_path: "mongo.png",
-      certificate_link: "",
+      certificate_link:
+        "https://university.mongodb.com/course_completion/42085c00-75b1-4753-9edd-f90276afd174?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing",
       alt_name: "MongoDB University",
       // color_code: "#F6B808",
       color_code: "#47A048",
