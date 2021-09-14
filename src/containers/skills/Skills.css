@@ -40,6 +40,9 @@
   font-family: "Google Sans Regular";
   padding-right: 100px;
 }
+.cloud {
+  padding-right: 10px;
+}
 
 /* Media Query */
 

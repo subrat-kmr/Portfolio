@@ -15,7 +15,7 @@ const greeting = {
   nickname: "Subrat / KMR",
   full_name: "Subrat Kumar Jena",
   subTitle:
-    "Full Stack Developer, Open Source Enthusiast 🔥. Always learning new techniques based on JS",
+    "Full Stack Developer, Open Source Enthusiast 🔥. Always learning new techniques related to JavaScript",
   resumeLink:
     "https://drive.google.com/file/d/1WwVVir9EhD7ynTTopQKUQr0Awn4ZgFQz/view?usp=sharing",
   mail: "mailto:subratkmr0@gmail.com",
@@ -38,11 +38,12 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
-        "⚡ Building responsive website front end using Javascript Frameworks",
-        // "⚡ Developing mobile applications using Flutter and Android",
-        "⚡ Creating application backend in Node, Express, ElasticSearch",
-        "⚡ Integration of third party services such as Firebase",
+        "⚡ Implement overall design of the application and mapping the business requirements to systems/technical requirements",
+        "⚡ Produce a detailed technical specification document to match the business requirements.",
+        "⚡ Initiate new ideas and features to improve the quality of work.",
+        "⚡ Develop highly interactive Front end / User Interfaces for web and mobile applications",
+        "⚡ Experience on JS frameworks like Angular,React, Node, Express,",
+        "⚡ Certified MongoDB for JavaScript Developers.",
       ],
       softwareSkills: [
         {
@@ -368,7 +369,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I've completed one internship. I've mostly done projects on my own and I am actively looking for internships. I love organizing workshops to share my knowledge with others.",
+    "Aspiring for IT professional roles to work on Software Development, Architectural Designs and SDLC with a reputed organization in the IT industry",
   header_image_path: "experience.svg",
   sections: [
     {

@@ -60,7 +60,10 @@ function SkillSection(props) {
             <div className="skills-main-div">
               <div className="skills-text-div">
                 <Fade left duration={1000}>
-                  <h1 className="skills-heading" style={{ color: theme.text }}>
+                  <h1
+                    className="skills-heading cloud"
+                    style={{ color: theme.text }}
+                  >
                     {skill.title}
                   </h1>
                 </Fade>
