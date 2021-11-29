@@ -9,7 +9,11 @@ export default function Footer(props) {
     <div className="footer-div">
       <Fade>
         <p className="footer-text" style={{ color: props.theme.secondaryText }}>
-          Made with <span role="img">❤️</span> by {greeting.title2}
+          <i class="fas fa-code"></i> with{" "}
+          <span className="red-color" role="img">
+            ❤️
+          </span>{" "}
+          by {greeting.title2} © 2021
         </p>
       </Fade>
     </div>

@@ -276,7 +276,7 @@ const degrees = {
   degrees: [
     {
       title: "Biju Pattnaik University of Engineering & Technology",
-      subtitle: "Bachelor of Engineering in Mechanical",
+      subtitle: "Bachelor of Engineering in Computer Science",
       logo_path: "bput.jpg",
       alt_name: "SETI",
       duration: "2013 - 2017",
