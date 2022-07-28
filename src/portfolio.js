@@ -15,7 +15,7 @@ const greeting = {
   nickname: "Subrat / KMR",
   full_name: "Subrat Kumar Jena",
   subTitle:
-    "Full Stack Developer, Open Source Enthusiast 🔥. based in Odisha Bhubaneswar, right in the heart of India. I can do remote work for any place in the world.",
+    "Full Stack Developer, Open Source Enthusiast 🔥. Based in Odisha Bhubaneswar, right in the heart of India. I can do remote work for any place in the world.",
   resumeLink:
     "https://drive.google.com/file/d/1WwVVir9EhD7ynTTopQKUQr0Awn4ZgFQz/view?usp=sharing",
   mail: "mailto:subratkmr0@gmail.com",
