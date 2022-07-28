@@ -15,7 +15,7 @@ const greeting = {
   nickname: "Subrat / KMR",
   full_name: "Subrat Kumar Jena",
   subTitle:
-    "Full Stack Developer, Open Source Enthusiast 🔥. Always learning new techniques related to JavaScript",
+    "Full Stack Developer, Open Source Enthusiast 🔥. based in Odisha Bhubaneswar, right in the heart of India. I can do remote work for any place in the world.",
   resumeLink:
     "https://drive.google.com/file/d/1WwVVir9EhD7ynTTopQKUQr0Awn4ZgFQz/view?usp=sharing",
   mail: "mailto:subratkmr0@gmail.com",
@@ -38,11 +38,12 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
+        "⚡ I excel when I plan complex systems from top to bottom: Database structure, solution architecture, selection of the right tools for the solution, frontend ideas, and everything around it.",
         "⚡ Implement overall design of the application and mapping the business requirements to systems/technical requirements",
         "⚡ Produce a detailed technical specification document to match the business requirements.",
         "⚡ Initiate new ideas and features to improve the quality of work.",
         "⚡ Develop highly interactive Front end / User Interfaces for web and mobile applications",
-        "⚡ Experience on JS frameworks like Angular,React, Node, Express,",
+        "⚡ Experience on JS frameworks like Angular,React, Vue, Node, Express,",
         "⚡ Certified MongoDB for JavaScript Developers.",
       ],
       softwareSkills: [
@@ -207,8 +208,9 @@ const skills = {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Intrerest on multiple cloud platforms",
-        "⚡ Interest on hosting and managing websites independently",
+        "⚡ Experience working on multiple cloud platforms",
+        "⚡ Experience hosting and managing websites",
+        "⚡ Experience with Continuous Integration",
       ],
       softwareSkills: [
         {
@@ -468,7 +470,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects make use of a vast variety of latest technology tools. My best experience is to create NodeJS Backend Projects, Python Scripts, and React Project. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
+    "My projects make use of a vast variety of latest technology tools. My best experience is to create projects using modern technologies such as Node.js, Vue.js, Nuxt.js, React.js. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -478,7 +480,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "subrat.jpg",
     description:
-      "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
+      "If you want to hire me, I'm interested to work in companies that offer modern technologies such as Node.js, Vue.js, Nuxt.js, React.js , etc. I am looking for a role that challenges me and where I can help designing solutions.You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
   blogSection: {
     title: "Blogs",
