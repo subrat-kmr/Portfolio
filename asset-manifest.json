@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.8327fd23.chunk.css",
-    "main.js": "/Portfolio/static/js/main.6c39da5c.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.6c39da5c.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.feb23a01.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.feb23a01.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.b005a422.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.b005a422.js.map",
-    "static/js/2.fada8c84.chunk.js": "/Portfolio/static/js/2.fada8c84.chunk.js",
-    "static/js/2.fada8c84.chunk.js.map": "/Portfolio/static/js/2.fada8c84.chunk.js.map",
+    "static/js/2.0f5c5d26.chunk.js": "/Portfolio/static/js/2.0f5c5d26.chunk.js",
+    "static/js/2.0f5c5d26.chunk.js.map": "/Portfolio/static/js/2.0f5c5d26.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.885262cf21d3bc49073df2d8d7fd24bc.js": "/Portfolio/precache-manifest.885262cf21d3bc49073df2d8d7fd24bc.js",
+    "precache-manifest.9f98933e594f45e9ca658dbba8ba0b38.js": "/Portfolio/precache-manifest.9f98933e594f45e9ca658dbba8ba0b38.js",
     "service-worker.js": "/Portfolio/service-worker.js",
     "static/css/main.8327fd23.chunk.css.map": "/Portfolio/static/css/main.8327fd23.chunk.css.map",
-    "static/js/2.fada8c84.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.fada8c84.chunk.js.LICENSE.txt",
+    "static/js/2.0f5c5d26.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.0f5c5d26.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/bput.jpg": "/Portfolio/static/media/bput.e7ac1573.jpg",
     "static/media/buld.jpg": "/Portfolio/static/media/buld.a1051a22.jpg",
@@ -38,13 +38,14 @@
     "static/media/skillenza.png": "/Portfolio/static/media/skillenza.7b7a76ef.png",
     "static/media/ssgandhy.png": "/Portfolio/static/media/ssgandhy.894ef0fc.png",
     "static/media/subrat.jpg": "/Portfolio/static/media/subrat.e0e98bae.jpg",
+    "static/media/techMahindra.jpg": "/Portfolio/static/media/techMahindra.7185b237.jpg",
     "static/media/valora.jpg": "/Portfolio/static/media/valora.246ad3ed.jpg",
     "static/media/wrighter.jpg": "/Portfolio/static/media/wrighter.02fdae43.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b005a422.js",
-    "static/js/2.fada8c84.chunk.js",
+    "static/js/2.0f5c5d26.chunk.js",
     "static/css/main.8327fd23.chunk.css",
-    "static/js/main.6c39da5c.chunk.js"
+    "static/js/main.feb23a01.chunk.js"
   ]
 }
