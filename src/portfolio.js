@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "Full Stack Developer, Open Source Enthusiast 🔥. Based in Odisha Bhubaneswar, right in the heart of India. I can do remote work for any place in the world.",
   resumeLink:
-    "https://drive.google.com/file/d/1WwVVir9EhD7ynTTopQKUQr0Awn4ZgFQz/view?usp=sharing",
+    "https://drive.google.com/file/d/1Vbj2eWJzFT6JVWWv_hfbmZ9IWFpIxXkO/view?usp=sharing",
   mail: "mailto:subratkmr0@gmail.com",
 };
 
@@ -378,11 +378,21 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
+          title: "Software Engineer",
+          company: "Tech Mahindra",
+          company_url: "https://www.techmahindra.com",
+          logo_path: "techMahindra.jpg",
+          duration: "Oct 2021- Till Now",
+          location: "Office",
+          description: "",
+          color: "#0071C5",
+        },
+        {
           title: "Software Analyst",
           company: "Apptium Technologies",
           company_url: "https://apptium.com/",
           logo_path: "apptium.jpg",
-          duration: "Aug 2019 - Till Now",
+          duration: "Aug 2019 - Oct 2021",
           location: "Office",
           description: "",
           color: "#0071C5",
@@ -529,7 +539,7 @@ const projects = {
     {
       id: "2",
       name: "OUA Travels",
-      url: "https://github.com/harikanani/node-blockchain",
+      url: "https://www.ouatravel.com",
       description:
         "OUA Travel is a B2C Application. Its a traveling service provider where it offers for Flight ,Hotel booking, Holiday package & providing Insurance for people of Oman.",
       languages: [
