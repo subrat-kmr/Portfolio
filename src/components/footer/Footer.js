@@ -13,7 +13,7 @@ export default function Footer(props) {
           <span className="red-color" role="img">
             ❤️
           </span>{" "}
-          by {greeting.title2} © 2022
+          by {greeting.title2} © 2023
         </p>
       </Fade>
     </div>

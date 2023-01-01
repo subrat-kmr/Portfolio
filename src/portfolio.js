@@ -15,9 +15,9 @@ const greeting = {
   nickname: "Subrat / KMR",
   full_name: "Subrat Kumar Jena",
   subTitle:
-    "Full Stack Developer, Open Source Enthusiast 🔥. Based in Odisha Bhubaneswar, right in the heart of India. I can do remote work for any place in the world.",
+    "Full Stack Developer, Open Source Enthusiast 🔥. Always exploring new techniques related to JavaScript",
   resumeLink:
-    "https://drive.google.com/file/d/1Vbj2eWJzFT6JVWWv_hfbmZ9IWFpIxXkO/view?usp=sharing",
+    "https://drive.google.com/file/d/1tE-PRjPPLyRuhtYhW1wauABLsYIrPZx7/view?usp=share_link",
   mail: "mailto:subratkmr0@gmail.com",
 };
 
@@ -321,14 +321,15 @@ const certifications = {
       // color_code: "#F6B808",
       color_code: "#47A048",
     },
-    // {
-    //     title: "Cyber Security & Cyber Forensics",
-    //     subtitle: "Workshop at IIT Bombay",
-    //     logo_path: "iit.png",
-    //     certificate_link: "https://drive.google.com/file/d/12uAdjQC5LfrB1ODdxqIY181ugyyQhl-I/view?usp=sharing",
-    //     alt_name: "Workshop",
-    //     color_code: "#2AAFED",
-    // },
+    {
+      title: "Amazon Web Services",
+      subtitle: "Preparation underway",
+      logo_path: "aws.png",
+      certificate_link:
+        "https://drive.google.com/file/d/12uAdjQC5LfrB1ODdxqIY181ugyyQhl-I/view?usp=sharing",
+      alt_name: "AWS",
+      color_code: "#2AAFED",
+    },
     // {
     //     title: "MLH Local Hack Day: Build",
     //     subtitle: "Major League Hacking",
@@ -371,21 +372,21 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "Aspiring for IT professional roles to work on Software Development, Architectural Designs and SDLC with a reputed organization in the IT industry",
+    "Highly-qualified Full Stack JavaScript Developer offering 4+ years of progressive experience. Expert at designing, developing, and maintaining a wide range of new and existing B2B products. Forward-thinking development professional bringing expertise in SQL, HTML, CSS, JavaScript, Typescript and other programming languages.",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work Experience",
       experiences: [
         {
-          title: "Software Engineer",
-          company: "Tech Mahindra",
-          company_url: "https://www.techmahindra.com",
-          logo_path: "techMahindra.jpg",
-          duration: "Oct 2021- Till Now",
+          title: "Software Developer",
+          company: "General Electric",
+          company_url: "https://www.ge.com/in/",
+          logo_path: "GE.png",
+          duration: "Oct 2020 - Till Now",
           location: "Office",
           description: "",
-          color: "#0071C5",
+          color: "#5de45d",
         },
         {
           title: "Software Analyst",
@@ -480,7 +481,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects make use of a vast variety of latest technology tools. My best experience is to create projects using modern technologies such as Node.js, Vue.js, Nuxt.js, React.js. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
+    "My projects make use of a vast variety of latest technology tools. My best experience is to create NodeJS Backend Projects, Python Scripts, and Angular, React & Vue projects with AWS configuration. Below are some of my projects. Note that not all of the mentioned projects are not on GitHub yet due to non disclosure agreements.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -495,7 +496,7 @@ const contactPageData = {
   blogSection: {
     title: "Blogs",
     subtitle:
-      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Twitter.",
+      "I don't blog or share anything on twitter but i follow a lot techie peoples to get their ideas & thoughts to transform myself, I do trying to make document it so it can be helpful to others and i will share it upcoming days.",
     link: "https://twitter.com/subrat_kmr",
     avatar_image_path: "blogs_image.svg",
   },
