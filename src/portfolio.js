@@ -383,7 +383,7 @@ const experience = {
           company: "General Electric",
           company_url: "https://www.ge.com/in/",
           logo_path: "GE.png",
-          duration: "Oct 2020 - Till Now",
+          duration: "Oct 2021 - Till Now",
           location: "Office",
           description: "",
           color: "#5de45d",
